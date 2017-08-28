@@ -1,1 +1,2 @@
 { "name": "sayyad mujahid", "password": "syedmujahed", "emailid": "mujahid.sayyad@ptgindia.com", "comment": "how are you...", "address": "parbhani, maharastra, india", "stdCourse": [ { "Course": "java", "Discount": 5000, "IsAcitve": true }, { "Course": "c", "Discount": 5000, "IsAcitve": true }, { "Course": "Oracle", "Discount": 5000, "IsAcitve": true }, { "Course": ".Net", "Discount": 5000, "IsAcitve": true }, { "Course": "Pascal", "Discount": 5000, "IsAcitve": true } ], "city": "parbhani", "ContentList": [] }
+ 
