@@ -1,19 +1,15 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "demo1"
-    },
-    {
-      "id": 2,
-      "title": "demo2"
-    },
-    {
-      "id": 3,
-      "title": "demo3"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  } 
-}
+{ "name": "sayyad mujahid",
+ "password": "syedmujahed",
+ "emailid": "mujahid.sayyad@ptgindia.com",
+ "comment": "how are you...", 
+ "address": "parbhani, maharastra, india", 
+ "stdCourse": [ { "Course": "java", "Discount": 5000, "IsAcitve": true }, 
+               { "Course": "c", "Discount": 5000, "IsAcitve": true }, 
+               { "Course": "Oracle", "Discount": 5000, "IsAcitve": true }, 
+               { "Course": ".Net", "Discount": 5000, "IsAcitve": true }, 
+               { "Course": "Pascal", "Discount": 5000, "IsAcitve": true } ], 
+ "city": "aurnagbad",
+ "ContentList": [ { "userId": 1, "id": 1, 
+                   "title": "delectus aut autem", "completed": false }, 
+                 { "userId": 1, "id": 2, "title": "quis ut nam facilis et officia qui", "completed": false },
+                 { "userId": 1, "id": 3, "title": "fugiat veniam minus", "completed": false } ] }
